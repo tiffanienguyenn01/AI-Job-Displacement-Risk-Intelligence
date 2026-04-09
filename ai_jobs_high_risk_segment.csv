@@ -1,0 +1,110 @@
+Employee_ID,Age,Gender,Education_Level,Industry,Job_Role,Years_Experience,AI_Adoption_Level,Automation_Risk,Upskilling_Required,Salary_Before_AI,Salary_After_AI,Job_Status,Work_Hours_Per_Week,Remote_Work,Job_Satisfaction,Productivity_Change_Pct,Salary_Change,Salary_Change_Pct,Risk_Score,AI_Score,Edu_Score,Age_Group,Salary_Bracket,Is_Replaced,Is_Modified,Is_Upskilled,Is_Remote,Vulnerability_Index,Risk_Label,Salary_Impact
+E0061,53,Male,High School,Marketing,SEO Specialist,31,Low,High,No,71975,75487,Unchanged,50,No,9,-10.22,3512,4.88,3,1,1,51-60,50-75k,0,0,0,0,10.0,CRITICAL,"+$3,512"
+E0067,50,Male,High School,Marketing,SEO Specialist,25,Low,High,No,63496,67973,Unchanged,44,No,7,-3.08,4477,7.05,3,1,1,41-50,50-75k,0,0,0,0,10.0,CRITICAL,"+$4,477"
+E0631,53,Other,High School,Finance,Accountant,29,Low,High,No,116402,126191,Unchanged,39,Yes,8,0.25,9789,8.41,3,1,1,51-60,100k+,0,0,0,1,10.0,CRITICAL,"+$9,789"
+E0694,58,Female,High School,IT,Software Engineer,35,Low,High,No,96630,92541,Unchanged,39,No,7,9.55,-4089,-4.23,3,1,1,51-60,75-100k,0,0,0,0,10.0,CRITICAL,"-$4,089"
+E0776,47,Male,High School,Retail,Cashier,23,Low,High,No,43921,46022,Unchanged,40,Yes,7,7.58,2101,4.78,3,1,1,41-50,<50k,0,0,0,1,10.0,CRITICAL,"+$2,101"
+E0797,58,Female,High School,IT,Software Engineer,35,Low,High,No,86827,92358,Unchanged,36,Yes,8,25.6,5531,6.37,3,1,1,51-60,75-100k,0,0,0,1,10.0,CRITICAL,"+$5,531"
+E1018,51,Other,High School,IT,Data Analyst,28,Low,High,No,51304,56119,Unchanged,42,Yes,3,-8.46,4815,9.39,3,1,1,51-60,50-75k,0,0,0,1,10.0,CRITICAL,"+$4,815"
+E1729,51,Male,High School,Education,Teacher,28,Low,High,No,117218,118163,Unchanged,54,No,5,-4.92,945,0.81,3,1,1,51-60,100k+,0,0,0,0,10.0,CRITICAL,+$945
+E1740,59,Male,High School,Education,Administrator,33,Low,High,No,62788,68747,Unchanged,42,No,9,16.25,5959,9.49,3,1,1,51-60,50-75k,0,0,0,0,10.0,CRITICAL,"+$5,959"
+E1748,46,Female,High School,Healthcare,Doctor,23,Low,High,No,50662,52560,Unchanged,49,No,7,-6.2,1898,3.75,3,1,1,41-50,50-75k,0,0,0,0,10.0,CRITICAL,"+$1,898"
+E1821,54,Male,High School,Healthcare,Doctor,30,Low,High,No,117329,119136,Unchanged,48,No,3,17.39,1807,1.54,3,1,1,51-60,100k+,0,0,0,0,10.0,CRITICAL,"+$1,807"
+E0008,57,Male,Bachelor,Finance,Auditor,34,Low,High,No,99479,105776,Unchanged,44,Yes,6,5.51,6297,6.33,3,1,2,51-60,75-100k,0,0,0,1,9.5,CRITICAL,"+$6,297"
+E0035,29,Female,High School,IT,DevOps Engineer,4,Low,High,No,83351,86765,Unchanged,37,No,3,-19.45,3414,4.1,3,1,1,22-30,75-100k,0,0,0,0,9.5,CRITICAL,"+$3,414"
+E0086,49,Female,Bachelor,Marketing,Digital Marketer,24,Low,High,No,91529,92283,Unchanged,39,Yes,3,-6.24,754,0.82,3,1,2,41-50,75-100k,0,0,0,1,9.5,CRITICAL,+$754
+E0151,51,Other,Bachelor,Manufacturing,Machine Operator,27,Low,High,No,54442,58251,Unchanged,51,Yes,7,0.96,3809,7.0,3,1,2,51-60,50-75k,0,0,0,1,9.5,CRITICAL,"+$3,809"
+E0257,47,Female,Bachelor,Finance,Accountant,23,Low,High,No,118009,112418,Unchanged,42,Yes,9,-5.35,-5591,-4.74,3,1,2,41-50,100k+,0,0,0,1,9.5,CRITICAL,"-$5,591"
+E0302,23,Other,High School,Retail,Store Manager,0,Low,High,No,102146,102960,Unchanged,36,No,4,13.87,814,0.8,3,1,1,22-30,100k+,0,0,0,0,9.5,CRITICAL,+$814
+E0417,53,Female,Bachelor,Education,Administrator,30,Low,High,No,96677,102075,Unchanged,41,No,4,21.3,5398,5.58,3,1,2,51-60,75-100k,0,0,0,0,9.5,CRITICAL,"+$5,398"
+E0468,31,Other,High School,IT,Data Analyst,5,Low,High,No,92507,89267,Unchanged,47,No,7,21.28,-3240,-3.5,3,1,1,31-40,75-100k,0,0,0,0,9.5,CRITICAL,"-$3,240"
+E0551,49,Female,Bachelor,Manufacturing,Machine Operator,27,Low,High,No,116664,111443,Unchanged,36,Yes,7,27.24,-5221,-4.48,3,1,2,41-50,100k+,0,0,0,1,9.5,CRITICAL,"-$5,221"
+E0610,43,Other,High School,Finance,Auditor,18,Low,High,No,53559,51415,Unchanged,51,Yes,6,-6.15,-2144,-4.0,3,1,1,41-50,50-75k,0,0,0,1,9.5,CRITICAL,"-$2,144"
+E0671,36,Male,High School,Finance,Accountant,12,Low,High,No,83822,91430,Unchanged,51,No,5,19.71,7608,9.08,3,1,1,31-40,75-100k,0,0,0,0,9.5,CRITICAL,"+$7,608"
+E0719,53,Male,Bachelor,Education,Professor,31,Low,High,No,57564,60554,Unchanged,37,No,9,36.76,2990,5.19,3,1,2,51-60,50-75k,0,0,0,0,9.5,CRITICAL,"+$2,990"
+E0787,46,Other,Bachelor,Finance,Auditor,20,Low,High,No,91360,98600,Unchanged,50,Yes,4,14.63,7240,7.92,3,1,2,41-50,75-100k,0,0,0,1,9.5,CRITICAL,"+$7,240"
+E0790,46,Other,Bachelor,IT,Software Engineer,20,Low,High,No,70581,73294,Unchanged,43,Yes,5,-15.96,2713,3.84,3,1,2,41-50,50-75k,0,0,0,1,9.5,CRITICAL,"+$2,713"
+E0857,30,Female,High School,IT,Software Engineer,4,Low,High,No,86398,88547,Unchanged,53,Yes,4,-7.01,2149,2.49,3,1,1,22-30,75-100k,0,0,0,1,9.5,CRITICAL,"+$2,149"
+E0898,58,Female,Bachelor,Manufacturing,Supervisor,32,Low,High,No,117892,120283,Unchanged,41,Yes,7,-11.12,2391,2.03,3,1,2,51-60,100k+,0,0,0,1,9.5,CRITICAL,"+$2,391"
+E0968,25,Male,High School,Manufacturing,Quality Inspector,1,Low,High,No,43303,42950,Unchanged,35,Yes,8,35.84,-353,-0.82,3,1,1,22-30,<50k,0,0,0,1,9.5,CRITICAL,-$353
+E0972,39,Other,High School,Healthcare,Nurse,14,Low,High,No,90924,92642,Unchanged,36,No,4,-16.69,1718,1.89,3,1,1,31-40,75-100k,0,0,0,0,9.5,CRITICAL,"+$1,718"
+E0976,24,Male,High School,Healthcare,Technician,0,Low,High,No,60766,65847,Unchanged,45,No,7,6.94,5081,8.36,3,1,1,22-30,50-75k,0,0,0,0,9.5,CRITICAL,"+$5,081"
+E0988,22,Other,High School,Marketing,Digital Marketer,0,Low,High,No,90624,91965,Unchanged,47,Yes,8,-18.02,1341,1.48,3,1,1,22-30,75-100k,0,0,0,1,9.5,CRITICAL,"+$1,341"
+E0993,44,Other,High School,Finance,Auditor,20,Low,High,No,76118,82762,Unchanged,35,Yes,7,-4.06,6644,8.73,3,1,1,41-50,75-100k,0,0,0,1,9.5,CRITICAL,"+$6,644"
+E1041,23,Other,High School,Manufacturing,Supervisor,0,Low,High,No,113028,123521,Unchanged,51,Yes,4,-17.01,10493,9.28,3,1,1,22-30,100k+,0,0,0,1,9.5,CRITICAL,"+$10,493"
+E1127,33,Male,High School,Education,Teacher,7,Low,High,No,116338,118940,Unchanged,53,No,9,17.35,2602,2.24,3,1,1,31-40,100k+,0,0,0,0,9.5,CRITICAL,"+$2,602"
+E1300,54,Male,Bachelor,Retail,Sales Associate,32,Low,High,No,41036,41053,Unchanged,50,Yes,8,-1.49,17,0.04,3,1,2,51-60,<50k,0,0,0,1,9.5,CRITICAL,+$17
+E1320,29,Male,High School,IT,Data Analyst,6,Low,High,No,76716,78885,Unchanged,40,No,3,-15.55,2169,2.83,3,1,1,22-30,75-100k,0,0,0,0,9.5,CRITICAL,"+$2,169"
+E1338,59,Other,Bachelor,Healthcare,Nurse,37,Low,High,No,39628,38076,Unchanged,53,No,5,32.87,-1552,-3.92,3,1,2,51-60,<50k,0,0,0,0,9.5,CRITICAL,"-$1,552"
+E1582,27,Male,High School,Education,Professor,2,Low,High,No,78478,78371,Unchanged,40,Yes,4,22.97,-107,-0.14,3,1,1,22-30,75-100k,0,0,0,1,9.5,CRITICAL,-$107
+E1620,46,Other,Bachelor,IT,Data Analyst,23,Low,High,No,104420,106921,Unchanged,42,Yes,5,27.15,2501,2.4,3,1,2,41-50,100k+,0,0,0,1,9.5,CRITICAL,"+$2,501"
+E1720,50,Male,Bachelor,Finance,Investment Analyst,28,Low,High,No,117579,126906,Unchanged,43,Yes,9,24.56,9327,7.93,3,1,2,41-50,100k+,0,0,0,1,9.5,CRITICAL,"+$9,327"
+E1928,24,Other,High School,Manufacturing,Supervisor,1,Low,High,No,104258,106088,Unchanged,47,No,9,18.8,1830,1.76,3,1,1,22-30,100k+,0,0,0,0,9.5,CRITICAL,"+$1,830"
+E1946,25,Female,High School,Finance,Investment Analyst,0,Low,High,No,30903,29952,Unchanged,38,Yes,7,-4.09,-951,-3.08,3,1,1,22-30,<50k,0,0,0,1,9.5,CRITICAL,-$951
+E1981,29,Other,High School,Retail,Sales Associate,6,Low,High,No,108533,103974,Unchanged,39,Yes,9,30.85,-4559,-4.2,3,1,1,22-30,100k+,0,0,0,1,9.5,CRITICAL,"-$4,559"
+E0023,53,Other,Master,Education,Teacher,31,Low,High,No,84384,80986,Unchanged,46,Yes,8,-4.77,-3398,-4.03,3,1,3,51-60,75-100k,0,0,0,1,9.0,CRITICAL,"-$3,398"
+E0084,39,Other,Bachelor,IT,Software Engineer,17,Low,High,No,82528,87014,Unchanged,37,Yes,9,7.27,4486,5.44,3,1,2,31-40,75-100k,0,0,0,1,9.0,CRITICAL,"+$4,486"
+E0193,50,Other,Master,Finance,Accountant,24,Low,High,No,94754,97303,Unchanged,36,Yes,3,-6.16,2549,2.69,3,1,3,41-50,75-100k,0,0,0,1,9.0,CRITICAL,"+$2,549"
+E0216,50,Other,Master,Education,Teacher,24,Low,High,No,47482,46680,Unchanged,48,Yes,6,-15.06,-802,-1.69,3,1,3,41-50,<50k,0,0,0,1,9.0,CRITICAL,-$802
+E0293,32,Male,Bachelor,IT,DevOps Engineer,8,Low,High,No,68067,67519,Unchanged,52,No,9,36.54,-548,-0.81,3,1,2,31-40,50-75k,0,0,0,0,9.0,CRITICAL,-$548
+E0371,29,Male,Bachelor,Healthcare,Nurse,3,Low,High,No,47071,45791,Unchanged,40,No,8,6.42,-1280,-2.72,3,1,2,22-30,<50k,0,0,0,0,9.0,CRITICAL,"-$1,280"
+E0379,44,Male,Bachelor,Finance,Auditor,22,Low,High,No,102516,109787,Unchanged,37,No,3,30.62,7271,7.09,3,1,2,41-50,100k+,0,0,0,0,9.0,CRITICAL,"+$7,271"
+E0506,24,Male,Bachelor,Manufacturing,Quality Inspector,1,Low,High,No,57056,58816,Unchanged,47,No,7,-3.05,1760,3.08,3,1,2,22-30,50-75k,0,0,0,0,9.0,CRITICAL,"+$1,760"
+E0531,29,Male,Bachelor,Healthcare,Technician,6,Low,High,No,84845,87204,Unchanged,40,No,4,-9.24,2359,2.78,3,1,2,22-30,75-100k,0,0,0,0,9.0,CRITICAL,"+$2,359"
+E0868,41,Female,Bachelor,Marketing,Content Creator,17,Low,High,No,34994,35828,Unchanged,38,No,8,22.05,834,2.38,3,1,2,41-50,<50k,0,0,0,0,9.0,CRITICAL,+$834
+E0881,51,Female,Master,IT,DevOps Engineer,26,Low,High,No,60935,61433,Unchanged,40,Yes,8,-2.73,498,0.82,3,1,3,51-60,50-75k,0,0,0,1,9.0,CRITICAL,+$498
+E0915,44,Female,Bachelor,IT,Data Analyst,19,Low,High,No,77631,79718,Unchanged,52,No,7,-2.55,2087,2.69,3,1,2,41-50,75-100k,0,0,0,0,9.0,CRITICAL,"+$2,087"
+E0920,29,Male,Bachelor,Retail,Cashier,7,Low,High,No,112800,111928,Unchanged,51,No,3,-8.94,-872,-0.77,3,1,2,22-30,100k+,0,0,0,0,9.0,CRITICAL,-$872
+E0946,55,Female,Master,Manufacturing,Machine Operator,32,Low,High,No,82709,90812,Unchanged,36,Yes,6,-3.3,8103,9.8,3,1,3,51-60,75-100k,0,0,0,1,9.0,CRITICAL,"+$8,103"
+E0991,38,Female,Bachelor,Education,Professor,14,Low,High,No,96830,101914,Unchanged,49,Yes,4,15.62,5084,5.25,3,1,2,31-40,75-100k,0,0,0,1,9.0,CRITICAL,"+$5,084"
+E1025,47,Male,Master,Healthcare,Nurse,25,Low,High,No,91313,99304,Unchanged,40,No,4,28.05,7991,8.75,3,1,3,41-50,75-100k,0,0,0,0,9.0,CRITICAL,"+$7,991"
+E1118,56,Male,Master,Retail,Cashier,33,Low,High,No,56853,59014,Unchanged,39,Yes,4,-13.83,2161,3.8,3,1,3,51-60,50-75k,0,0,0,1,9.0,CRITICAL,"+$2,161"
+E1133,45,Male,Bachelor,Marketing,SEO Specialist,23,Low,High,No,35409,37882,Unchanged,47,No,9,10.51,2473,6.98,3,1,2,41-50,<50k,0,0,0,0,9.0,CRITICAL,"+$2,473"
+E1305,26,Male,Bachelor,Education,Teacher,4,Low,High,No,118027,128991,Unchanged,38,No,4,4.29,10964,9.29,3,1,2,22-30,100k+,0,0,0,0,9.0,CRITICAL,"+$10,964"
+E1447,42,Other,Bachelor,Marketing,Digital Marketer,17,Low,High,No,88726,85766,Unchanged,39,No,8,-9.37,-2960,-3.34,3,1,2,41-50,75-100k,0,0,0,0,9.0,CRITICAL,"-$2,960"
+E1677,42,Female,Bachelor,Healthcare,Technician,18,Low,High,No,113312,124425,Unchanged,39,No,9,-0.92,11113,9.81,3,1,2,41-50,100k+,0,0,0,0,9.0,CRITICAL,"+$11,113"
+E1723,51,Other,Master,Finance,Auditor,29,Low,High,No,91517,88623,Unchanged,49,Yes,4,-7.28,-2894,-3.16,3,1,3,51-60,75-100k,0,0,0,1,9.0,CRITICAL,"-$2,894"
+E1803,56,Other,Master,Finance,Auditor,34,Low,High,No,50128,50105,Unchanged,48,Yes,6,6.88,-23,-0.05,3,1,3,51-60,50-75k,0,0,0,1,9.0,CRITICAL,-$23
+E1824,29,Other,Bachelor,IT,Software Engineer,6,Low,High,No,69115,72165,Unchanged,44,No,5,-0.69,3050,4.41,3,1,2,22-30,50-75k,0,0,0,0,9.0,CRITICAL,"+$3,050"
+E1931,52,Female,Master,Healthcare,Technician,28,Low,High,No,77310,78197,Unchanged,44,No,4,18.04,887,1.15,3,1,3,51-60,75-100k,0,0,0,0,9.0,CRITICAL,+$887
+E0026,23,Female,Master,Retail,Sales Associate,0,Low,High,No,80859,82247,Unchanged,38,Yes,9,13.17,1388,1.72,3,1,3,22-30,75-100k,0,0,0,1,8.5,CRITICAL,"+$1,388"
+E0187,50,Other,PhD,Education,Teacher,28,Low,High,No,91916,87838,Unchanged,50,Yes,6,8.79,-4078,-4.44,3,1,4,41-50,75-100k,0,0,0,1,8.5,CRITICAL,"-$4,078"
+E0327,42,Other,Master,Retail,Store Manager,16,Low,High,No,45997,49506,Unchanged,41,No,9,23.71,3509,7.63,3,1,3,41-50,<50k,0,0,0,0,8.5,CRITICAL,"+$3,509"
+E0421,33,Male,Master,Education,Professor,11,Low,High,No,47438,49963,Unchanged,39,No,8,-11.57,2525,5.32,3,1,3,31-40,<50k,0,0,0,0,8.5,CRITICAL,"+$2,525"
+E0447,59,Female,PhD,Finance,Accountant,36,Low,High,No,110807,107143,Unchanged,50,No,8,30.52,-3664,-3.31,3,1,4,51-60,100k+,0,0,0,0,8.5,CRITICAL,"-$3,664"
+E0509,49,Female,PhD,Marketing,Content Creator,24,Low,High,No,115029,121902,Unchanged,43,No,7,18.44,6873,5.98,3,1,4,41-50,100k+,0,0,0,0,8.5,CRITICAL,"+$6,873"
+E0529,25,Male,Master,IT,DevOps Engineer,3,Low,High,No,76220,81382,Unchanged,48,Yes,9,24.01,5162,6.77,3,1,3,22-30,75-100k,0,0,0,1,8.5,CRITICAL,"+$5,162"
+E0532,26,Other,Master,Marketing,Content Creator,1,Low,High,No,55917,57780,Unchanged,54,No,3,-8.61,1863,3.33,3,1,3,22-30,50-75k,0,0,0,0,8.5,CRITICAL,"+$1,863"
+E0572,50,Female,PhD,Manufacturing,Machine Operator,28,Low,High,No,44671,43800,Unchanged,43,Yes,9,-12.36,-871,-1.95,3,1,4,41-50,<50k,0,0,0,1,8.5,CRITICAL,-$871
+E0588,53,Other,PhD,Retail,Sales Associate,28,Low,High,No,74948,79009,Unchanged,38,Yes,9,-6.88,4061,5.42,3,1,4,51-60,50-75k,0,0,0,1,8.5,CRITICAL,"+$4,061"
+E0689,42,Male,Master,Marketing,Content Creator,16,Low,High,No,70149,76897,Unchanged,36,Yes,6,-11.87,6748,9.62,3,1,3,41-50,50-75k,0,0,0,1,8.5,CRITICAL,"+$6,748"
+E0737,40,Male,Master,Manufacturing,Supervisor,15,Low,High,No,34837,36507,Unchanged,37,No,5,-10.76,1670,4.79,3,1,3,31-40,<50k,0,0,0,0,8.5,CRITICAL,"+$1,670"
+E0791,52,Male,PhD,Marketing,Content Creator,29,Low,High,No,77645,82089,Unchanged,54,Yes,7,14.74,4444,5.72,3,1,4,51-60,75-100k,0,0,0,1,8.5,CRITICAL,"+$4,444"
+E0837,22,Male,Master,Manufacturing,Supervisor,0,Low,High,No,85514,90703,Unchanged,42,No,4,-11.66,5189,6.07,3,1,3,22-30,75-100k,0,0,0,0,8.5,CRITICAL,"+$5,189"
+E0932,38,Female,Master,Retail,Sales Associate,12,Low,High,No,117505,116697,Unchanged,51,Yes,9,12.29,-808,-0.69,3,1,3,31-40,100k+,0,0,0,1,8.5,CRITICAL,-$808
+E0937,41,Male,Master,IT,Software Engineer,19,Low,High,No,49156,48352,Unchanged,49,Yes,5,10.27,-804,-1.64,3,1,3,41-50,<50k,0,0,0,1,8.5,CRITICAL,-$804
+E0939,50,Female,PhD,Finance,Auditor,27,Low,High,No,56183,58287,Unchanged,41,No,6,23.08,2104,3.74,3,1,4,41-50,50-75k,0,0,0,0,8.5,CRITICAL,"+$2,104"
+E1022,53,Other,PhD,Manufacturing,Machine Operator,28,Low,High,No,51575,50827,Unchanged,39,No,3,17.68,-748,-1.45,3,1,4,51-60,50-75k,0,0,0,0,8.5,CRITICAL,-$748
+E1031,24,Female,Master,Marketing,Content Creator,1,Low,High,No,100246,99841,Unchanged,37,No,5,37.73,-405,-0.4,3,1,3,22-30,100k+,0,0,0,0,8.5,CRITICAL,-$405
+E1059,37,Female,Master,Manufacturing,Quality Inspector,13,Low,High,No,76073,75582,Unchanged,37,No,3,-15.08,-491,-0.65,3,1,3,31-40,75-100k,0,0,0,0,8.5,CRITICAL,-$491
+E1157,32,Male,Master,Healthcare,Technician,6,Low,High,No,59299,62777,Unchanged,52,Yes,4,-8.63,3478,5.87,3,1,3,31-40,50-75k,0,0,0,1,8.5,CRITICAL,"+$3,478"
+E1231,50,Other,PhD,Marketing,Digital Marketer,28,Low,High,No,104051,107806,Unchanged,51,Yes,4,18.24,3755,3.61,3,1,4,41-50,100k+,0,0,0,1,8.5,CRITICAL,"+$3,755"
+E1369,52,Other,PhD,Marketing,SEO Specialist,29,Low,High,No,94892,98329,Unchanged,46,Yes,4,4.14,3437,3.62,3,1,4,51-60,75-100k,0,0,0,1,8.5,CRITICAL,"+$3,437"
+E1451,33,Female,Master,Finance,Auditor,9,Low,High,No,65050,70502,Unchanged,50,No,6,8.23,5452,8.38,3,1,3,31-40,50-75k,0,0,0,0,8.5,CRITICAL,"+$5,452"
+E1528,52,Female,PhD,Education,Administrator,26,Low,High,No,33810,35508,Unchanged,51,No,8,33.75,1698,5.02,3,1,4,51-60,<50k,0,0,0,0,8.5,CRITICAL,"+$1,698"
+E1533,57,Male,PhD,IT,Software Engineer,33,Low,High,No,79116,82604,Unchanged,42,Yes,9,-1.91,3488,4.41,3,1,4,51-60,75-100k,0,0,0,1,8.5,CRITICAL,"+$3,488"
+E1727,35,Male,Master,Finance,Accountant,13,Low,High,No,46267,44327,Unchanged,54,No,7,-19.27,-1940,-4.19,3,1,3,31-40,<50k,0,0,0,0,8.5,CRITICAL,"-$1,940"
+E1796,35,Female,Master,IT,DevOps Engineer,13,Low,High,No,113301,111030,Unchanged,35,No,3,-5.46,-2271,-2.0,3,1,3,31-40,100k+,0,0,0,0,8.5,CRITICAL,"-$2,271"
+E0052,25,Male,PhD,Education,Professor,0,Low,High,No,88335,90958,Unchanged,42,No,6,12.44,2623,2.97,3,1,4,22-30,75-100k,0,0,0,0,8.0,CRITICAL,"+$2,623"
+E0174,30,Male,PhD,Education,Professor,7,Low,High,No,31524,31576,Unchanged,35,Yes,3,1.09,52,0.16,3,1,4,22-30,<50k,0,0,0,1,8.0,CRITICAL,+$52
+E0208,38,Other,PhD,Healthcare,Nurse,15,Low,High,No,42987,40896,Unchanged,50,Yes,8,29.12,-2091,-4.86,3,1,4,31-40,<50k,0,0,0,1,8.0,CRITICAL,"-$2,091"
+E0315,44,Male,PhD,Healthcare,Doctor,18,Low,High,No,77684,82392,Unchanged,39,Yes,7,10.73,4708,6.06,3,1,4,41-50,75-100k,0,0,0,1,8.0,CRITICAL,"+$4,708"
+E0427,44,Other,PhD,Education,Teacher,20,Low,High,No,94386,93947,Unchanged,53,No,4,-4.44,-439,-0.47,3,1,4,41-50,75-100k,0,0,0,0,8.0,CRITICAL,-$439
+E0577,24,Female,PhD,Manufacturing,Quality Inspector,0,Low,High,No,103933,104544,Unchanged,38,No,5,-15.88,611,0.59,3,1,4,22-30,100k+,0,0,0,0,8.0,CRITICAL,+$611
+E0708,32,Male,PhD,Marketing,SEO Specialist,6,Low,High,No,70130,70035,Unchanged,51,Yes,8,20.59,-95,-0.14,3,1,4,31-40,50-75k,0,0,0,1,8.0,CRITICAL,-$95
+E1003,33,Male,PhD,Retail,Sales Associate,7,Low,High,No,54845,55704,Unchanged,51,No,4,-1.38,859,1.57,3,1,4,31-40,50-75k,0,0,0,0,8.0,CRITICAL,+$859
+E1070,23,Female,PhD,Marketing,Digital Marketer,0,Low,High,No,105164,101767,Unchanged,52,Yes,8,25.39,-3397,-3.23,3,1,4,22-30,100k+,0,0,0,1,8.0,CRITICAL,"-$3,397"
+E1075,29,Other,PhD,Retail,Cashier,5,Low,High,No,81952,78524,Unchanged,36,No,8,30.19,-3428,-4.18,3,1,4,22-30,75-100k,0,0,0,0,8.0,CRITICAL,"-$3,428"
+E1696,22,Male,PhD,Education,Teacher,0,Low,High,No,98879,103427,Unchanged,43,Yes,6,36.36,4548,4.6,3,1,4,22-30,75-100k,0,0,0,1,8.0,CRITICAL,"+$4,548"
+E1741,29,Other,PhD,Finance,Investment Analyst,4,Low,High,No,89719,85395,Unchanged,50,Yes,3,-17.94,-4324,-4.82,3,1,4,22-30,75-100k,0,0,0,1,8.0,CRITICAL,"-$4,324"
+E1857,39,Female,PhD,Retail,Store Manager,14,Low,High,No,69925,66833,Unchanged,48,No,9,-12.3,-3092,-4.42,3,1,4,31-40,50-75k,0,0,0,0,8.0,CRITICAL,"-$3,092"
