@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-This project explores workforce displacement patterns across 7 industries using SQL, Python, and an interactive JavaScript dashboard to assess displacement rates and uncover key factors driving job outcomes in the age of AI. The study reveals significant variation in displacement rates and vulnerability scores across age groups, education levels, and industries, identifying high-risk populations and areas for targeted intervention.
+This project explores workforce displacement patterns across 7 industries using SQL, Python, and an interactive Tableau dashboard to assess displacement rates and uncover key factors driving job outcomes in the age of AI. The study reveals significant variation in displacement rates and vulnerability scores across age groups, education levels, and industries, identifying high-risk populations and areas for targeted intervention.
 
 A composite **Vulnerability Index** was engineered to predict displacement likelihood based on automation risk, AI adoption level, education, upskilling status, and age. Results reveal stark disparities: workers in high-risk roles with low AI adoption and no upskilling plan score near 10 out of 10, while workers in low-risk roles with active AI adoption score as low as 2 — an 8-point gap. Automation risk and AI adoption level emerged as the strongest predictors of displacement outcomes across all 2,000 survey respondents.
 
@@ -16,7 +16,7 @@ AI-driven job displacement is accelerating across industries, yet most organizat
 
 ## Methodology
 
-Built an automated ETL pipeline using Python to extract and transform 2,000 survey records into a structured SQLite database, engineering 12 new features including the **Vulnerability Index**, salary delta metrics, ordinal risk scores, binary outcome flags, and age group buckets — expanding the raw dataset from 17 to 29 columns.
+Built an automated ETL pipeline using Python to extract and transform 2,000 survey records into a structured SQLite database, engineering 12 new features including the **Vulnerability Index**, salary delta metrics, ordinal risk scores, binary outcome flags, and age group buckets that expanding the raw dataset from 17 to 29 columns.
 
 Designed and executed 7 SQL analytical queries to evaluate displacement performance by industry, age group, education level, AI adoption level, and salary bracket, surfacing key workforce KPIs including replacement rate, average vulnerability, and upskilling effectiveness.
 
@@ -30,8 +30,7 @@ Visualized key insights through a **5-sheet Tableau-style interactive JavaScript
 - **Python:** `pandas`, `sqlite3`, ETL pipeline design, feature engineering, integrity assertions, self-healing patch system
 - **Feature Engineering:** Ordinal encoding, salary deltas, age binning, binary flags, composite Vulnerability Index design
 - **Data Modeling:** Star schema design — fact table + dimension tables, pre-aggregation strategy
-- **Tableau:** Chart.js 4.4, `Set`-based filter state, chart instance registry, 5-sheet renderer architecture
-- **Dashboard Design:** Tableau-style layout, cold color palette, cross-chart interactivity, bullet charts, scatter explorer
+- **Tableau:** Dashboard, `Set`-based filter state, chart instance registry, 5-sheet renderer architecture
 - **Excel:** `openpyxl`, 4-sheet formatted workbook, conditional formatting, heat bars, color-coded headers
 
 ---
